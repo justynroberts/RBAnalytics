@@ -2,6 +2,7 @@
 Place holder for Runbook Automation Analytics job
 Clealy overkill for one job, but this will serve as a placeholder for any future Runbook Projects.
 
+Import the .json file to a Runbook Automation/Rundeck/Process Automation server.
 
 # Automation Job Execution Report
 
